@@ -2,13 +2,11 @@
 layout: default
 ---
 
-{% include 01-name.md %}
-
+Amarachi Crystal Omereife
 <br>
 
-{% include 02-image.md %}
-
+My picture (@marameref)
 <br>
 
-{% include 03-links.md %}
+https://github.com/marameref
 
